@@ -125,13 +125,8 @@ O aplicativo possui duas telas principais:
 - Eduardo Osorio Filho - RM 550161
 - Fabio Hideki Kamikihara - RM 550610
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos.
-
 ---
 
-**Desenvolvido para a Global Solution FIAP 2024**  
 **Disciplina: Mobile Development & IoT**  
 **Tema: O Futuro do Trabalho**
 
